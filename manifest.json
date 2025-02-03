@@ -1,18 +1,18 @@
 {
   "name": "Miguelito Mobile Bar Apps",
-  "short_name": "GHL PWA",
+  "short_name": "Miguelitos",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/pwa-icon-192.png",
+      "src": "icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/pwa-icon-512.png",
+      "src": "icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
